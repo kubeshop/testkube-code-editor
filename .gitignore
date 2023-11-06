@@ -1,0 +1,6 @@
+.idea
+.vscode
+
+dist
+src/**/*.d.ts
+src/**/*.js
